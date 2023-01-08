@@ -1,0 +1,22 @@
+{
+  "name": "serverless-nodejs-aws",
+  "description": "",
+  "version": "1.0.0",
+  "main": "optimize.js",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulReisDev/serverless-nodejs-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulReisDev/serverless-nodejs-aws/issues"
+  },
+  "homepage": "https://github.com/RaulReisDev/serverless-nodejs-aws#readme",
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
+}
